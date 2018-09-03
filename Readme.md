@@ -1,0 +1,2 @@
+## How to set the Binding property of a GridColumn created with a use of the ColumnGeneratorTemplate property
+This example demonstrates an approach that can be used to set the Binding property of a custom template generated GridColumn.
