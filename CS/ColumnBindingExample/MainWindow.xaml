@@ -13,4 +13,4 @@
         <views:MainView />
     </Grid>
 
-</dx:ThemedWindow>
+</dx:DXWindow>
