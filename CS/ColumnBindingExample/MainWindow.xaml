@@ -1,0 +1,16 @@
+﻿<dx:ThemedWindow
+    x:Class="ColumnBindingExample.MainWindow"
+    xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+    xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+    xmlns:dx="http://schemas.devexpress.com/winfx/2008/xaml/core"
+    xmlns:dxb="http://schemas.devexpress.com/winfx/2008/xaml/bars"
+    xmlns:views="clr-namespace:ColumnBindingExample.Views"
+    Width="525"
+    Height="350"
+    Title="MainWindow">
+
+    <Grid>
+        <views:MainView />
+    </Grid>
+
+</dx:ThemedWindow>
